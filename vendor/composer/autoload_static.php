@@ -26,9 +26,9 @@ class ComposerStaticInitba8af5181748e547d562a094d7f42949
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
         ),
-        'O' =>
+        'A' =>
         array (
-            'Ordinateur\\Loyality\\' => 20,
+            'App\\' => 4,
         ),
     );
 
@@ -45,9 +45,9 @@ class ComposerStaticInitba8af5181748e547d562a094d7f42949
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
-        'Ordinateur\\Loyality\\' =>
+        'App\\' =>
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/app',
         ),
     );
 
