@@ -1,0 +1,19 @@
+{
+    "name": "ordinateur/loyality",
+    "require": {
+        "twig/twig": "^3.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ordinateur\\Loyality\\": "src/"
+        }
+
+    },
+    "authors": [
+        {
+            "name": "Salma GTU",
+            "email": "salmajaddar7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
