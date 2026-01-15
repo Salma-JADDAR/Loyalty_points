@@ -42,6 +42,7 @@ CREATE TABLE rewards (
    points_required INT NOT NULL,
    description TEXT,
    stock INT DEFAULT -1 -- -1 = unlimited
+  
 );
 INSERT INTO rewards (name, points_required, description, stock) VALUES
 ('Bon de réduction 10%', 100, 'Réduction de 10% sur votre prochaine commande', -1),
